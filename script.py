@@ -3,11 +3,11 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
+നിങ്ങൾക്ക് വേണ്ട ഒന്നും എന്നിൽ നിന്നും ലഭിക്കുന്നതല്ല!
 
-Bot simply search for the files from provided channel according to given query and gives link to those files as buttons!
+ഞാൻ ഇപ്പോൾ എന്റെ മുതലാളി പറയുന്നത് മാത്രമേ കേൾക്കുള്ളു 
 
-So no need to add filters for your files or movies from now on!
+അതുകൊണ്ട് നിങ്ങൾ Back അടിച്ച പോകേണ്ടതാണ് 
 
 For more click <i>help</i></b>"""
 
@@ -29,14 +29,14 @@ Bot will automatically search for your file and give links to that!
 <b>© @TroJanzHEX</b>"""
 
 
-    ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot</b>
+    ABOUT_MSG = """⭕️<b>Filter Pab Bot</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @Pablo NK
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Channel :</b> <a href='https:t.me/CinematoosNew</a> 
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>Group :</b> <a href='https:t.me/CM_Chats</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+⭕️<b>NOTHIG!:</b> <a href='-'>Video Link</a> 
 
 """
