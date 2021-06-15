@@ -9,7 +9,7 @@ class script(object):
 
 അതുകൊണ്ട് നിങ്ങൾ Back അടിച്ച പോകേണ്ടതാണ് 
 
-For more click <i>help</i></b>"""
+Go Home.Stay Safe"""
 
 
     HELP_MSG = """<b>How to use the bot??</b>
@@ -31,7 +31,7 @@ Bot will automatically search for your file and give links to that!
 
     ABOUT_MSG = """⭕️<b>Filter Pab Bot</b>
     
-⭕️<b>Creater :</b> @Pablo NK
+⭕️<b>Creater :</b> @Pablo_NK
 
 ⭕️<b>Channel :</b> <a href='https:t.me/CinematoosNew</a> 
 
